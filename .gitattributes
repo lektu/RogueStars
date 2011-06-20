@@ -1,0 +1,6 @@
+*       text=auto
+.git*   eol=lf
+*.adc   eol=lf
+*.gpr   eol=lf
+*.adb   eol=lf ident encoding=utf8
+*.ads   eol=lf ident encoding=utf8

@@ -1,0 +1,5 @@
+# Some common generated files
+*.cgpr
+*.exe
+*.ali
+*.o
